@@ -1,12 +1,12 @@
-# Descripcion del modelo
+# Descripción del modelo
 Coordenadas
-- East - West $\to 17 km$
-- Depth $\to 3.5 km$
+- East - West $\to 67.425 km$
+- Depth $\to 11.9375 km$
 
 Intervalos de la malla
-- East - West $\to 6.25m$
-- Depth $\to 5.0m$
+- East - West $\to 12.5m$
+- Depth $\to 6.25m$
 
 Tamano de la malla
-- X $\to 2721$
-- Z $\to 701$
+- X $\to 5395$
+- Z $\to 1911$
