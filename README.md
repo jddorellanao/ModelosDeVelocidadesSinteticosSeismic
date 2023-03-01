@@ -18,7 +18,7 @@ Modelo del Mar Rojo desarrollado por las universidades KFUMP y KAUST, se puede o
 ### Ghawar KFUMP:
 Modelo del yacimiento Ghawar desarrollado por la universidad KFUMP, se puede leer el paper [aquí](https://link.springer.com/article/10.1007/s12517-019-4390-4) y los datos [aquí](https://www.dropbox.com/sh/cmkg4fnxx2jpxcv/AAB5s0d6rd-wjCPZA3IbmsP-a?dl=0)
 ### Model94:
-Modelo Foothills of the Canadian rockies se puede obtener [aquí]([http://www.delphi.tudelft.nl/SMAART/](https://reproducibility.org/data/bppublic/PUBLIC_2D_DATASETS/Model94/))
+Modelo Foothills of the Canadian rockies se puede obtener [aquí](https://reproducibility.org/data/bppublic/PUBLIC_2D_DATASETS/Model94/)
 
 ### Correcion
 Para evitar la advertencia cuando se obtiene el modelo de velocidades de los archivos SEG-Y, se necesita hacer lo siguiente:
